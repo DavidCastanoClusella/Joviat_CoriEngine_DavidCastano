@@ -1064,11 +1064,11 @@ MonoBehaviour:
   BlockingWeaponStates: 
   MinimumDamageFallHeight: 5
   MaximumDamageFallHeight: 10
-  MinimumDamage: 10
-  MaximumDamage: 250
+  MinimumDamage: 15
+  MaximumDamage: 300
   ClampedDamage: 1
   FallDamageTypes: []
-  DamageVelocityThreshold: 5
+  DamageVelocityThreshold: 20
 --- !u!114 &-8415178817719904556
 MonoBehaviour:
   m_ObjectHideFlags: 0
